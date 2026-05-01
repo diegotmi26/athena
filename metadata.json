@@ -1,0 +1,6 @@
+{
+  "name": "Analise de Documentos de Crédito",
+  "description": "Análise inteligente de comprovantes ECD, DAS e DARF emitidos pelo e-CAC para verificação técnica de códigos e prazos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
